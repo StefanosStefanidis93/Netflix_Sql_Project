@@ -1,6 +1,8 @@
 
 # Netflix Content Analysis Project
 
+![netflix_logo]()
+
 This project contains a series of SQL queries that analyze various aspects of Netflix content. The goal is to perform data analysis and extract insights from the Netflix dataset, specifically focusing on movies and TV shows. Each query is designed to explore different attributes of the content, such as genres, directors, release years, and more.
 
 ## Project Structure
