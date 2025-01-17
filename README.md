@@ -27,3 +27,4 @@ The project includes a collection of SQL queries to answer specific questions re
 - **Q15:** Find the top 10 actors who appeared in the most number of movies in India.
 - **Q16:** Categorize movies based on specific keywords in their descriptions (e.g., "bad", "violence") and count them.
 
+#Objectives
