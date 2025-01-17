@@ -24,11 +24,3 @@ The project includes a collection of SQL queries to answer specific questions re
 - **Q15:** Find the top 10 actors who appeared in the most number of movies in India.
 - **Q16:** Categorize movies based on specific keywords in their descriptions (e.g., "bad", "violence") and count them.
 
-## Setup
-
-To run the SQL queries, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/netflix-content-analysis.git
