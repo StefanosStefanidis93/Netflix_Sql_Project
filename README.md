@@ -11,7 +11,7 @@ This project contains a series of SQL queries that analyze various aspects of Ne
 The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
--
+
 - ## Project Structure
 
 The project includes a collection of SQL queries to answer specific questions related to Netflix data. Below is a list of the key queries:
