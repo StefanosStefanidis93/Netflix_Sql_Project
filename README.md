@@ -6,7 +6,13 @@
 
 This project contains a series of SQL queries that analyze various aspects of Netflix content. The goal is to perform data analysis and extract insights from the Netflix dataset, specifically focusing on movies and TV shows. Each query is designed to explore different attributes of the content, such as genres, directors, release years, and more.
 
-## Project Structure
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+-
+- ## Project Structure
 
 The project includes a collection of SQL queries to answer specific questions related to Netflix data. Below is a list of the key queries:
 
@@ -27,4 +33,4 @@ The project includes a collection of SQL queries to answer specific questions re
 - **Q15:** Find the top 10 actors who appeared in the most number of movies in India.
 - **Q16:** Categorize movies based on specific keywords in their descriptions (e.g., "bad", "violence") and count them.
 
-#Objectives
+
