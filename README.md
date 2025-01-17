@@ -18,3 +18,11 @@ The data for this project is sourced from the Kaggle dataset:
 - **Content Categorization**: Categorize content based on specific keywords in the description and analyze its distribution.
 - **Director and Actor Analysis**: Explore the work of specific directors and actors in Netflix content.
 - **Country-Specific Analysis**: Analyze Netflix content for specific countries (e.g., USA, India).
+
+## SQL Queries and Analysis
+
+### Q1: Count the Total Number of Movies and TV Shows
+```sql
+SELECT type, COUNT(*) AS total
+FROM netflix
+GROUP BY type;
